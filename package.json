@@ -1,0 +1,26 @@
+{
+  "name": "projetohamburgueria-nodejs",
+  "version": "1.0.0",
+  "description": "projeto desafio devclub - com foco nodejs,criar funçao de pedidos de uma hamburgueria, aonde os pedidos sejam feitos, e notificados que estao prontos.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon"
+  },
+  "keywords": [
+    "hamburgueria",
+    "-",
+    "pedidos",
+    "-",
+    "nodejs"
+  ],
+  "author": "yasmim ferreira costa",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
